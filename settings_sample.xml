@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+
+ <Head>
+  <ID>chapter</ID>
+  <Description type="C"><![CDATA[]]></Description>
+  <Version></Version>
+  <name>ChhapterName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Partner>Specadel Technologies Private Limited</Partner>
+  <!--Optional-->
+  <OptionalConfiguration>
+   <QP_Version>2.0</QP_Version>
+   <MenuPosition type="N">2</MenuPosition>
+  </OptionalConfiguration>
+ </Head>
+
+ <SubMenu>
+  <ID>chapter1</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+  
+
+   <SubMenu>
+  <ID>chapter2</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+
+  <SubMenu>
+  <ID>chapter3</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+
+  <SubMenu>
+  <ID>chapter4</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+
+  <SubMenu>
+  <ID>chapter5</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+
+  <SubMenu>
+  <ID>chapter6</ID>
+  <name>SubtopicName</name>
+  <Icon type="C"><![CDATA[]]></Icon>
+  <Description type="C"><![CDATA[]]></Description>
+  <Timer type="N">60</Timer>
+  <path></path>
+  <Instruction type="C"><![CDATA[]]></Instruction>
+  <OptionalConfiguration>
+  <FileType>VIDEO</FileType>
+  </OptionalConfiguration>
+ </SubMenu>
+ 
+</Configuration>
